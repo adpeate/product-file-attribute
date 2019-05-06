@@ -3,7 +3,7 @@
     "description": "Webkul Magento2 Product Custom File Type Attribute Extension",
     "type":"magento2-module",
     "require": {
-      "php": "~5.5.0|~5.6.0|~7.0.0"
+      "php": "~5.5.0|~5.6.0|^7.0.0"
     },
     "version": "2.0.0",
     "license": [
